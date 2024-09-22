@@ -1,17 +1,17 @@
 # site settings
-title: "Mingyu Cha"
-subtitle: "Research Engineer in Generative AI and NLP"
-email: mgcha85@gmail.com
-description: "Research Engineer specializing in Generative AI, Machine Learning, and Data Science."
-baseurl: "mingyu-portfolio" # the subpath of your site, e.g., /blog (leave empty if publishing to root)
-url: "https://mgcha85.github.io" # replace with your actual GitHub Pages URL
-author: "Mingyu Cha"
-street_address: "#204, 144-1, Gangseo-ro, Gangseo-gu"
-city: Seoul
-state:
+title: "HYUNJAE YU"
+subtitle: "Data Scientist & Big Data Analyst"
+email: hjyu622@gmail.com
+description: "Highly skilled Data Scientist specializing in machine learning, data analysis, and process optimization with over 4 years of experience."
+baseurl: "yu-portfolio" # the subpath of your site, e.g., /blog (leave empty if publishing to root)
+url: "https://glorr17.github.io" # replace with your actual GitHub Pages URL
+author: "HYUNJAE YU"
+street_address: "#204"
+city: Paju
+state: Gyeonggi
 zip_code:
 country: "Republic of Korea"
-phone: "+82(10) 6375-6954"
+phone: "+82(10) 2399-9412"
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,9 +22,9 @@ tiles-count: 6
 # Icons are not shown if the value is empty
 # You need to restart Jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/mgcha85 # replace with your GitHub username
-  LinkedIn: https://www.linkedin.com/in/mingyu-cha-717b62122/ # replace with your LinkedIn profile
-  Email: mailto:mgcha85@gmail.com
+  GitHub: https://github.com/glorr17 # replace with your GitHub username
+  LinkedIn: https://www.linkedin.com/in/gloriayu- # replace with your LinkedIn profile
+  Email: mailto:hjyu622@gmail.com
 
 # build settings
 markdown: kramdown

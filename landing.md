@@ -1,87 +1,55 @@
 ---
-title: Landing
-layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
-nav-menu: true
+layout: page
+title: Skills & Expertise
+description: "Overview of skills, technical expertise, and areas of specialization"
 ---
 
-<!-- Main -->
-<div id="main">
+# HYUNJAE YU
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Sed amet aliquam</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
-	</div>
-</section>
+**Data Scientist & Big Data Analyst**
 
-<!-- Two -->
-<section id="two" class="spotlights">
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Orci maecenas</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Rhoncus magna</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sed nunc ligula</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-</section>
+---
 
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
-</section>
+## Skills & Expertise
 
-</div>
+With a strong foundation in data science, machine learning, and big data analysis, I have developed a diverse skill set that enables me to tackle complex problems and deliver impactful solutions.
+
+### Programming Languages
+- **Python**: Extensive experience in data analysis, machine learning, and automation.
+- **R**: Advanced statistical computing and data visualization.
+- **SQL**: Database management and query optimization.
+- **Java, C/C++**: Applied in software development and algorithm optimization.
+- **JavaScript, HTML, CSS**: Used for web development and data visualization.
+
+### Data Science & Machine Learning
+- **Machine Learning Algorithms**: Proficient in supervised and unsupervised learning (XGBoost, LightGBM, Random Forest).
+- **Deep Learning**: Experience with ARIMA and LSTM models for time-series forecasting.
+- **NLP**: Skilled in natural language processing for sentiment analysis, market prediction, and decision support systems.
+- **Statistical Analysis**: Expertise in ANOVA, correlation coefficients, regression models, and SHAP for explainability.
+
+### Tools & Technologies
+- **Data Visualization**: Tableau, Power BI, Spotfire, D3.js for creating interactive visualizations.
+- **Big Data Platforms**: Experience with AWS (Elasticsearch, Hadoop, S3), Azure, and Spark for managing and analyzing large datasets.
+- **Cloud Services**: AWS, Azure — Implementing cloud-based solutions for scalable data processing.
+- **APIs**: Developed and integrated APIs for large-scale data handling and automation.
+
+### Languages
+- **English**: Fluent
+- **Korean**: Fluent
+
+---
+
+## Certifications & Courses
+- **AWS Certified Solutions Architect**
+- **Microsoft Azure Data Fundamentals**
+- **Certified Data Scientist - OpenEDG**
+
+---
+
+## Professional Development
+
+Continuously expanding my expertise in emerging technologies such as cloud computing, AI-driven analytics, and deep learning. I actively participate in data science competitions and continuously enhance my skills through workshops and online courses.
+
+---
+
+For further information, please explore my [LinkedIn](https://www.linkedin.com/in/gloriayu-) profile or visit my [GitHub](https://github.com/glorr17) for detailed project repositories and code samples.
